@@ -1,4 +1,4 @@
-### Hi there, my name is Kevin Germain 👋 
+### Welcome to my github profile, my name is Kevin 👋 
 
 [![Website](https://img.shields.io/badge/germainkevinbusiness-website-brightgreen)](https://realgermainkevin.web.app/)
 [![Twitter Follow](https://img.shields.io/badge/Follow%20%40kevincodes__-120%20Twitter%20followers-blue)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgermainkevinbusiness&screen_name=kevincodes_)
@@ -13,12 +13,11 @@
 
 ### Connect with me:
 
-[Website link](https://realgermainkevin.web.app/)
-[Twitter link](https://twitter.com/kevincodes_)
-[LinkedIn link](https://www.linkedin.com/in/gkevincodes/)
-[Instagram link](https://www.instagram.com/kevincodes_/)
+[Website link](https://realgermainkevin.web.app/) <br />
+[Twitter link](https://twitter.com/kevincodes_) <br />
+[LinkedIn link](https://www.linkedin.com/in/gkevincodes/) <br />
+[Instagram link](https://www.instagram.com/kevincodes_/) <br />
 
-<br />
 ---
 
 ### 📕 Latest Blog Posts
