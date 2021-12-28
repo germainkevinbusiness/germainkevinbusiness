@@ -4,10 +4,10 @@
 
 ### Welcome to my github profile, my name is Kevin 👋🏾 !
 
-## I'm  an android software engineer, Java & Kotlin developer !
+## I'm  an android software engineer !
 
 - 🔭 I have already developed two android libraries notably [UIPresenter library](https://github.com/germainkevinbusiness/UIPresenter) & [ItemDecorator library](https://github.com/kevingermainbusiness/ItemDecorator)
-- 🌱 I love learning new android technologies
+- 🌱 I love learning new tech stuff !
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals for the months to come: Contribute to Open Source projects
 - ⚡ I love to play guitar
