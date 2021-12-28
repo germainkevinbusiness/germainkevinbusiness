@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/germainkevinbusiness-website-brightgreen)](https://realgermainkevin.web.app/)
 [![Twitter Follow](https://img.shields.io/badge/Follow%20%40kevincodes__-120%20Twitter%20followers-blue)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgermainkevinbusiness&screen_name=kevincodes_)
 
-### Welcome to my github profile, my name is Kevin 👋 
+### Welcome to my github profile, my name is Kevin 👋🏾 !
 
 ## I'm  an Android Software engineer, Library developer, Java & Kotlin developer !
 
