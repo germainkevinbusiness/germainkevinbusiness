@@ -1,9 +1,10 @@
-### Welcome to my github profile, my name is Kevin 👋 
 
 [![Website](https://img.shields.io/badge/germainkevinbusiness-website-brightgreen)](https://realgermainkevin.web.app/)
 [![Twitter Follow](https://img.shields.io/badge/Follow%20%40kevincodes__-120%20Twitter%20followers-blue)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgermainkevinbusiness&screen_name=kevincodes_)
 
-## I'm  an Android Software engineer | Android Library developer | Java & Kotlin developer !
+### Welcome to my github profile, my name is Kevin 👋 
+
+## I'm  an Android Software engineer, Library developer, Java & Kotlin developer !
 
 - 🔭 I have already developed two android libraries notably [UIPresenter library](https://github.com/germainkevinbusiness/UIPresenter) & [ItemDecorator library](https://github.com/kevingermainbusiness/ItemDecorator)
 - 🌱 I love learning new android technologies
