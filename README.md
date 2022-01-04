@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[Website link](https://realgermainkevin.web.app/) <br />
-[Twitter link](https://twitter.com/kevincodes_) <br />
-[LinkedIn link](https://www.linkedin.com/in/gkevincodes/) <br />
-[Instagram link](https://www.instagram.com/kevincodes_/) <br />
+[realgermainkevin.web.app/](https://realgermainkevin.web.app/) <br />
+[Twitter](https://twitter.com/kevincodes_) <br />
+[LinkedIn](https://www.linkedin.com/in/gkevincodes/) <br />
+[Instagram](https://www.instagram.com/kevincodes_/) <br />
 
 ---
 
