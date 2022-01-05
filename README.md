@@ -6,7 +6,7 @@
 
 ## I'm  an android software engineer !
 
-- 🔭 Apart from android apps on Google Play, I also developed android libraries notably [UIPresenter library](https://github.com/germainkevinbusiness/UIPresenter) & [ItemDecorator library](https://github.com/kevingermainbusiness/ItemDecorator)
+- 🔭 Developer of [UIPresenter library](https://github.com/germainkevinbusiness/UIPresenter) & [ItemDecorator library](https://github.com/kevingermainbusiness/ItemDecorator) & also worked on published apps on Google Play
 - 🌱 I love learning new tech stuff !
 - 👯 I’m looking forward to collaborating with more software developers
 - 🥅 Goals for the months to come: Contribute to more Open Source projects
