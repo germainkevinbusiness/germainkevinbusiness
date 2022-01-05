@@ -1,6 +1,6 @@
 ## Welcome to my github profile 👋🏾 !
 
-## I am an Android Software Engineer
+## I'm an Android Software Engineer
 
 - 🔭 Developer of [UIPresenter library](https://github.com/germainkevinbusiness/UIPresenter) & [ItemDecorator library](https://github.com/kevingermainbusiness/ItemDecorator) & also worked on apps published on Google Play
 - 🌱 I love learning new tech stuff !
