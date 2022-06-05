@@ -1,6 +1,6 @@
 ## Welcome to my github profile 👋🏾 !
 
-## I'm a Native Android Developer
+#### I'm a Native Android Software Developer
 
 - 🔭 Developer of [UIPresenter library](https://github.com/germainkevinbusiness/UIPresenter) & [ItemDecorator library](https://github.com/kevingermainbusiness/ItemDecorator) & also worked on apps published on Google Play
 - 🌱 I love learning new tech stuff !
