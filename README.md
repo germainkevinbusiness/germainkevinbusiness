@@ -1,8 +1,5 @@
 ## Welcome to my github profile 👋🏾 !
 
-#### I'm a Native Android Software Developer
-
-- 🔭 Developer of [CollapsingTopBarCompose library](https://github.com/germainkevinbusiness/CollapsingTopBarCompose), [UIPresenter library](https://github.com/germainkevinbusiness/UIPresenter) & [ItemDecorator library](https://github.com/kevingermainbusiness/ItemDecorator) & also worked on apps published on Google Play
 - 🌱 I love learning new tech stuff !
 - 👯 I’m looking forward to collaborating with more software developers
 - 🥅 Goals for the months to come: Contribute to more Open Source projects
