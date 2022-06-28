@@ -4,7 +4,7 @@
 - ⚡ I love to play guitar
 
 ## Connect with me
-[Website](https://realgermainkevin.web.app/) | [Twitter](https://twitter.com/kevincodes_) | [LinkedIn](https://www.linkedin.com/in/gkevincodes/) | [Instagram](https://www.instagram.com/kevincodes_/)
+[Twitter](https://twitter.com/kevincodes_) | [LinkedIn](https://www.linkedin.com/in/gkevincodes/) | [Instagram](https://www.instagram.com/kevincodes_/) | [Website](https://realgermainkevin.web.app/)
 ---
 
 ### 📕 Latest Blog Posts
