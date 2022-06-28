@@ -1,5 +1,3 @@
-## Welcome to my github profile 👋🏾 !
-
 - 🌱 I love learning new tech stuff !
 - 👯 I’m looking forward to collaborating with more software developers
 - 🥅 Goals for the months to come: Contribute to more Open Source projects
