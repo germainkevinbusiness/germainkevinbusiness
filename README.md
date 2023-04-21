@@ -3,10 +3,6 @@
 - 🥅 Goals for the months to come: Contribute to more Open Source projects
 - 🎸 I love to play guitar
 
-## Connect with me
-[Website](https://realgermainkevin.web.app/) | [Twitter](https://twitter.com/kevincodes_) | [LinkedIn](https://www.linkedin.com/in/gkevincodes/) | [Instagram](https://www.instagram.com/kevincodes_/)
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
