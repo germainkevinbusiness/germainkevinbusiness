@@ -1,7 +1,7 @@
 - 🌱 I love learning new tech stuff !
 - 👯 I’m looking forward to collaborating with more software developers
 - 🥅 Goals for the months to come: Contribute to more Open Source projects
-- ⚡ I love to play guitar
+- 🎸 I love to play guitar
 
 ## Connect with me
 [Website](https://realgermainkevin.web.app/) | [Twitter](https://twitter.com/kevincodes_) | [LinkedIn](https://www.linkedin.com/in/gkevincodes/) | [Instagram](https://www.instagram.com/kevincodes_/)
