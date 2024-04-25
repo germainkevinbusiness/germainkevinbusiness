@@ -1,4 +1,5 @@
 - 🌱 Harvard University CS50 Computer Science graduate !
+- 🔭 Meta Android developer certified !
 - 🌱 I love learning new tech stuff !
 - 👯 I’m looking forward to collaborating with more software developers
 - 🥅 Goals for the months to come: Contribute to more Open Source projects
