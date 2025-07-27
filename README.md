@@ -1,9 +1,36 @@
+# Hi, I'm Germain Kevin 👋
 - 🌱 Harvard University CS50 Computer Science graduate !
 - 🔭 Meta Android developer certified !
-- 🌱 I love learning new tech stuff !
-- 👯 I’m looking forward to collaborating with more software developers
-- 🥅 Goals for the months to come: Contribute to more Open Source projects
 - 🎸 I love to play guitar
+
+I'm a **freelance web app builder** with a passion for delivering high-quality solutions for my clients.  
+I specialize in **Node.js** and **mobile development**, and I enjoy turning ideas into reality with robust, scalable code.
+
+## 🚀 Most Impressive Project
+
+### [Chant d'esperance](https://apps.apple.com/us/app/chant-desp%C3%A9rance/id6502008349)  
+A feature-rich hymn app available on both the [App Store](https://apps.apple.com/us/app/chant-desp%C3%A9rance/id6502008349) and [Play Store](https://play.google.com/store/apps/dev?id=7257381827090518863).  
+Built with love for people who want to access inspirational gospel hymns anytime, anywhere.
+
+## 🛠️ Technologies & Tools
+
+- Node.js
+- React / React Native
+- Express
+- MongoDB
+- Firebase
+- REST APIs
+- Mobile app development (iOS & Android)
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/gkevincodes/)
+- [Twitter](https://twitter.com/kevincodes_)
+- [Email](mailto:germainkevinbusiness@gmail.com)
+
+---
+
+_Always open to exciting freelance projects, collaborations, and opportunities to make a positive impact!_
 
 ### 📕 Latest Blog Posts
 
