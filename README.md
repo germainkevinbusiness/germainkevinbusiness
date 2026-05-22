@@ -25,7 +25,6 @@ Built with love for people who want to access inspirational gospel hymns anytime
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/gkevincodes/)
-- [Twitter](https://twitter.com/kevincodes_)
 - [Email](mailto:germainkevinbusiness@gmail.com)
 
 ---
