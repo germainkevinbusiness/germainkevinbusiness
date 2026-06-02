@@ -1,4 +1,4 @@
-# Hi, I'm Kevin Germain 👋
+# Hi, I'm Germain Kevin 👋
 - 🌱 Harvard University CS50 Computer Science graduate !
 - 🔭 Meta Android developer certified !
 - 🎸 I love to play guitar
