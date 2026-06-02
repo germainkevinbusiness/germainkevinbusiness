@@ -1,4 +1,4 @@
-# Hi, I'm Germain Kevin 👋
+# Hi, I'm Kevin Germain 👋
 - 🌱 Harvard University CS50 Computer Science graduate !
 - 🔭 Meta Android developer certified !
 - 🎸 I love to play guitar
@@ -6,9 +6,17 @@
 I'm a **freelance web app builder** with a passion for delivering high-quality solutions for my clients.  
 I specialize in **Node.js** and **mobile development**, and I enjoy turning ideas into reality with robust, scalable code.
 
-## 🚀 Most Impressive Project
+## 🚀 Most Impressive Projects
 
-### [Chant d'esperance](https://apps.apple.com/us/app/chant-desp%C3%A9rance/id6502008349)  
+### [Route 94 Website](https://route94autonw.com/)
+The official website for Route 94 Auto, an automotive repair and maintenance shop located in New Windsor, New York.
+The website functions primarily as a digital storefront where customers can learn about the garage's offerings and schedule appointments.
+Built with love for our customers to help New Windsor area residents quickly diagnose car issues and book a mechanic.
+
+### [Odny solutions website](https://odnysolutions.com)
+A professional services firm that specializes in three core areas: Entitlement & Permitting, Property Design and Project Management.
+
+### [Chant d'esperance](https://apps.apple.com/us/app/chant-desp%C3%A9rance/id6502008349)
 A feature-rich hymn app available on both the [App Store](https://apps.apple.com/us/app/chant-desp%C3%A9rance/id6502008349) and [Play Store](https://play.google.com/store/apps/dev?id=7257381827090518863).  
 Built with love for people who want to access inspirational gospel hymns anytime, anywhere.
 
