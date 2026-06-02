@@ -20,6 +20,9 @@ A professional services firm that specializes in three core areas: Entitlement &
 A feature-rich hymn app available on both the [App Store](https://apps.apple.com/us/app/chant-desp%C3%A9rance/id6502008349) and [Play Store](https://play.google.com/store/apps/dev?id=7257381827090518863).  
 Built with love for people who want to access inspirational gospel hymns anytime, anywhere.
 
+### [SmartTorch](https://play.google.com/store/apps/details?id=com.germainkevin.smarttorch)
+It's an Android flashlight utility app with over 49.2K downloads on Google Play Store. Its defining feature is a built-in countdown timer that automatically shuts off your phone’s LED flashlight after a set period. It is designed to prevent battery drain if you like to read in the dark or use your flashlight to fall asleep. It is available on [Play Store](https://play.google.com/store/apps/dev?id=7257381827090518863)
+
 ## 🛠️ Technologies & Tools
 
 - Node.js
